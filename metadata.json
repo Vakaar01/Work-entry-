@@ -1,0 +1,6 @@
+{
+  "name": "PieceRate",
+  "description": "Daily Work Log & Piece-Rate Data Entry ledger for garment manufacturing and tailoring job-work.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
